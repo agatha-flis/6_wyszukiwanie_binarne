@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libmpbin_src.a  CMakeFiles/mpbin_src.dir/src/bin.cpp.o
+/usr/bin/ranlib lib/libmpbin_src.a

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/bin.h
+iostream
+-
+algorithm
+-
+
+/home/agata/Documents/mpbin/main.cpp
+bin.h
+/home/agata/Documents/mpbin/bin.h
+

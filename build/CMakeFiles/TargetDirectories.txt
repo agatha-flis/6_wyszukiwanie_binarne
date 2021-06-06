@@ -1,0 +1,5 @@
+/home/agata/Documents/mpbin/build/CMakeFiles/edit_cache.dir
+/home/agata/Documents/mpbin/build/CMakeFiles/tests.dir
+/home/agata/Documents/mpbin/build/CMakeFiles/rebuild_cache.dir
+/home/agata/Documents/mpbin/build/CMakeFiles/mpbin.dir
+/home/agata/Documents/mpbin/build/CMakeFiles/mpbin_src.dir
